@@ -1,0 +1,48 @@
+.dotted-border {
+    border: 1px;
+    margin: 0% 25% 0% 25%;
+    align-content: center;
+    color: rgb(250, 250, 250)
+
+}
+
+body {
+    background: 
+    linear-gradient(
+      rgba(12, 12, 12, 0.45), 
+      rgba(12, 12, 12, 0.45)
+    ),
+    url(background.jpg);
+}
+
+.addGifButtonArea {
+    padding: 10px;
+    color: rgb(250, 250, 250);
+    margin: 0% 25% 0% 25%;
+
+
+}
+
+.buttons {
+    padding: 10px;
+    margin: 0% 25% 0% 25%;
+
+}
+
+.gif-image{
+    width: 100%;
+    max-width: 567px;
+    max-height: 250px;
+}
+
+#key-item {
+    display:inline;
+    float:none;
+    margin: auto;
+}
+
+
+h1{
+    text-align: center;
+    color: rgb(250, 250, 250);
+}
